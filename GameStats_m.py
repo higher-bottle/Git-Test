@@ -28,3 +28,5 @@ class GameStats:
         if  not self.setting.level:
             self.collisions_count=0
             self.score=0
+            
+#Change
